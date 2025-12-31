@@ -15,5 +15,14 @@ After Fulfilling all of the inputs your scan will start on the specified IP and 
 
 And for ease of usage at the end you will be informed with the open ports so you don't have to look through all the logs
 
+# Requirements
+
+- Python 3.x
+- `colorama` library
+
+Install dependencies:
+```bash
+pip install colorama
+```
 # Follow me on GitHub: github.com/Nostromis
 # Follow me on X: x.com/Nostromis1
